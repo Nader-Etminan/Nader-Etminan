@@ -16,4 +16,8 @@
 ---
 ## 🛠 My skills
 ### 🧑‍💻 Programming Languages
-- ⚾
+- 💻 Basic
+
+### 💻 Design Apps
+- 📕 SOLIDWORKS
+- 📘 AutoCad
