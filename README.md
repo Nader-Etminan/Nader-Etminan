@@ -1,20 +1,19 @@
 ## Hi there 👋
+
 # 👨‍🔧 I'm Nader Etminan
 ## and I'm **51** years old
+
 - 📈 I'm a founder and CEO of **Fartoos** company with **27 years of experience** in IRAN
 - 🛠 I can make things with few facilities 
-- 
-<!--
-**Nader-Etminan/Nader-Etminan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 I learn Basic language without any cource
+ 
+---
+## 👨🏾🔧 about me
+- 📚 Always learning and experiencing new things
+- ⛏ Interested in changing tools To speed up tasks and automation
+- 🤳🏾 Who learn every thing about Mechanic and Basic without any cource learning or university
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠 My skills
+### 🧑‍💻 Programming Languages
+- ⚾
