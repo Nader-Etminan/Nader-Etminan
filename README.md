@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+# 👨‍🔧 I'm Nader Etminan
+## and I'm **51** years old
+- 📈 I'm a founder and CEO of **Fartoos** company with **27 years of experience** in IRAN
+- 🛠 I can make things with few facilities 
+- 
 <!--
 **Nader-Etminan/Nader-Etminan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
