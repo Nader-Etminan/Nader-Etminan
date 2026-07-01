@@ -26,7 +26,10 @@
 - Protel 99 SE
 
 ### 💡 Electronic Skills
-- Soldering and Assembly of **DIP** & **SMD** components
-- PCB Designing
-- Writing Basic Language codes for boards with **Basecom**
-- **Porogramming** codes on microcontrollers
+- 🔧 Soldering and Assembly of **DIP** & **SMD** components
+- 💻 PCB Designing
+- 💻 Writing Basic Language codes for boards with **Basecom**
+- 🔁 **Porogramming** codes on microcontrollers
+
+### 🛠 Industrial Skills
+- 
