@@ -18,6 +18,9 @@
 ### 🧑‍💻 Programming Languages
 - 💻 Basic
 
-### 💻 Design Apps
+### 💻 Engineering Software
 - 📕 SOLIDWORKS
 - 📘 AutoCad
+
+### 💡 Electronic Skills
+- 
