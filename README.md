@@ -30,4 +30,3 @@
 - PCB Designing
 - Writing Basic Language codes for boards with **Basecom**
 - **Porogramming** codes on microcontrollers
-- 
