@@ -32,4 +32,5 @@
 - 🔁 **Porogramming** codes on microcontrollers
 
 ### 🛠 Industrial Skills
+- Industrial welding (TIG, MIG/MAG, SMAW)
 - 
