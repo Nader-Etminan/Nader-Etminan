@@ -32,5 +32,17 @@
 - 🔁 **Porogramming** codes on microcontrollers
 
 ### 🛠 Industrial Skills
-- Industrial welding (TIG, MIG/MAG, SMAW)
-- 
+- 🔧 Industrial welding (TIG, MIG/MAG, SMAW)
+- 🛠️ Milling
+- ⚙️ Turning
+- 💿 Grinding
+- ⚡ Industrial Electrical Work
+- 🏗️ Design & Manufacturing of Various Machines
+
+### 🛠 Tools & Platforms
+- Github
+- Basecome
+
+---
+## 📫 Contact me
+- ✉️ Email: fartoos.co@gmail.com
