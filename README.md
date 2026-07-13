@@ -48,7 +48,6 @@
 - 📚 Self-Learning  
 - 🔁 Communication
 - 🧩 Problem Solving  
-- 👨‍🏫 Teaching clearlly
 - 🔍 Analytical Thinking
 - 💪 Growth In Unstable Conditions
 
