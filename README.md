@@ -43,6 +43,15 @@
 - Github
 - Basecome
 
+### 🤝 Soft Skills
+- 🌊 Adaptability
+- 📚 Self-Learning  
+- 🔁 Communication
+- 🧩 Problem Solving  
+- 👨‍🏫 Teaching clearlly
+- 🔍 Analytical Thinking
+- 💪 Growth In Unstable Conditions
+
 ---
 ## 📫 Contact me
 - ✉️ Email: fartoos.co@gmail.com
