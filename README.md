@@ -54,3 +54,4 @@
 ---
 ## 📫 Contact me
 - ✉️ Email: fartoos.co@gmail.com
+- 🖇 Linkedin: linkedin.com/in/nader-etminan-81445945
